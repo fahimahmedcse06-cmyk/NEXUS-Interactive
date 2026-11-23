@@ -1,0 +1,30 @@
+</a>
+           </li>
+          <      <div id="social">
+          <svg className="icon" role="presentation" aria-hidden="true">
+            <ue href="/icons.svg#social-icon"></use>
+  
+          <h2>Connect with us</h2>
+          <p>Join the Vite community</p>
+          <ul> 
+              <a href="https://github.com/vitejs/vite" target="_blank">
+              <svg
+                 className="buttorue"
+    >
+                  <use href="/icons.svg#github-icon"></use>                </svg>
+               GitHu
+            </l
+            <l
+              <a href="https://chat.vite.dev/" target="_blank"> <s                 className="button-icon      role="presentation"
+                  aria-hidden="true"
+               
+ <use href="/icons.svg#discord-icon"></use>
+                </svg Discord
+              </
+            </
+            <li
+              <a href="https://x.com/vite_js" target="_       <svg
+                  className="button-ico   role="     aria-hidden="true"
+                >
+                  <use#x-icon"></use>
+      
